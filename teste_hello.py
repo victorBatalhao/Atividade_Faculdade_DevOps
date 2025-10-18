@@ -1,4 +1,4 @@
-from index import hello
+from index import helloWorld
 
 def test_hello():
-    assert hello() == "Hello World"
+    assert helloWorld() == "Hello World"
